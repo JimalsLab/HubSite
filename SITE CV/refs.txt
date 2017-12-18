@@ -1,0 +1,7 @@
+﻿ref to main pc //add to gitignore à terme 
+
+C:\Users\Mathieu Jacob\Documents\Visual Studio 2017\Projects\SITE CV\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+
+ref to pc portable 
+
+D:\SUPINFO\PROJETS\repo\HubSite\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll

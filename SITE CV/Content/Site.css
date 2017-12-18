@@ -42,6 +42,30 @@ mark {
     padding-right: 5px;
 }
 
+.pjtImg {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+
+    margin-left:20px;
+    margin-right:20px;
+
+    max-width:450px;
+}
+
+.titlecv {
+    color: #657597;
+}
+
+.maxwidth {
+    max-width: 100%;
+    width: 100%;
+}
+
+.bodytwo {
+    background-color: #657597;
+}
+
 .float-left {
     float: left;
 }
@@ -98,15 +122,13 @@ h5, h6 {
     max-width: 960px;
 }
 
-#body {
+.body {
     background-color: #CAEBF2;
     clear: both;
-    padding-bottom: 35px;
 }
 
     .main-content {
         background: url("../Images/accent.png") no-repeat;
-        padding-left: 10px;
         padding-top: 30px;
     }
 
@@ -656,8 +678,18 @@ tr.pager td {
         background-position: 10px 0;
     }
 
-    .title {
-        color: #A9A9A9;
+    .btncv{
+        padding-bottom:5px;
+        margin-bottom:5px !important;
+    }
+
+    .pjtImg {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        display: block;
+        margin-left: 10px;
+        margin-right: 10px;
+        max-width: 300px;
     }
 
     .content-wrapper {
@@ -707,6 +739,7 @@ tr.pager td {
      }
 
         section.feature img {
+            padding-left:20px;
             color: #999;
             content: attr(alt);
             font-size: 1.5em;
@@ -753,4 +786,6 @@ tr.pager td {
         footer p {
             margin: 0;
         }
+
+
 }
